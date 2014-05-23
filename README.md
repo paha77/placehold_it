@@ -3,7 +3,7 @@ Placehold IT for PHP v0.0.1
 
 # Description
 
-A simple PHP-class to generate transparend placeholder images in Data-URI format
+A simple PHP-class to generate transparent placeholder images in Data-URI format
 
 # Usage
 
