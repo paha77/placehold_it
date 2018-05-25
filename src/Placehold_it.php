@@ -1,5 +1,7 @@
 <?php
 
+namespace Paha77;
+
 /**
  *  Simple class to create "inline" spacer PNG images which could be used as placeholders in websites
  *  The class stores the generated images in cache for performance

@@ -1,0 +1,14 @@
+{
+    "name": "paha77/placehold_it",
+    "description": "Inline images based on placehold.it",
+    "type": "library",
+    "require": {
+        "emanueleminotto/faker-placehold-it-provider": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Peter Bakonyi",
+            "email": "paha77@gmail.com"
+        }
+    ]
+}
