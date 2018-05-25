@@ -2,8 +2,10 @@
     "name": "paha77/placehold_it",
     "description": "Inline images based on placehold.it",
     "type": "library",
-    "require": {
-        "emanueleminotto/faker-placehold-it-provider": "^1.0"
+    "autoload": {
+        "psr-4": {
+            "Paha77\\": "src/"
+        }
     },
     "authors": [
         {
