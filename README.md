@@ -1,4 +1,4 @@
-Placehold IT for PHP v0.0.1
+Placehold IT for PHP v0.0.2
 ===========================
 
 # Description
@@ -11,7 +11,7 @@ A simple PHP-class to generate transparent placeholder images in Data-URI format
 <?php
     $width = 200;
     $height = 150;
-    $placehold_it = new Placehold_it(array('cache_dir' => [CACHE DIR]));
+    $placehold_it = new Paha77\Placehold_it(array('cache_dir' => [CACHE DIR]));
 ?>
 <img alt="" src="<?=$placehold_it->get($width, $height)?>" />
 ```
